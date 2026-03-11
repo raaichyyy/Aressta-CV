@@ -1,0 +1,40 @@
+body {
+    font-family: Poppins, sans-serif;
+    background-color: #f5f5f5;
+}
+
+.container {
+    width: 800px;
+    margin:auto;
+    background-color: #fff;
+    padding: 30px; 
+}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.profile-img {
+    width: 200px;
+    height: 230px;
+    border-radius: 50% / 40%;
+    object-fit: cover;
+    margin-right: 30px;
+}
+
+.header text h1 {
+    margin-bottom: 10px;
+}
+
+.section {
+    margin-top: 30px;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+ul {
+    padding-left: 20px;
+}
